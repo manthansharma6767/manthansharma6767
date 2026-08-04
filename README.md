@@ -1,23 +1,38 @@
 <div align="center">
 
-# Manthan Sharma
+# 🛠️ Manthan Sharma
 
-**CS Undergrad · Aspiring Backend Engineer · Java & Spring Boot**
+### **CS Undergrad · Aspiring Backend Engineer · Java & Spring Boot**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+with+Spring+Boot;Practicing+DSA+in+Java;Exploring+System+Design;Always+Learning" />
+<a href="https://github.com/manthansharma6767">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+with+Spring+Boot;Practicing+DSA+in+Java;Exploring+System+Design;Always+Learning" alt="Typing SVG" />
+</a>
 
-![](https://komarev.com/ghpvc/?username=manthansharma6767&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manthansharma6767&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-sharma-2185ba378/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/manthansharma795/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manthansharma795@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manthansharma6767)
+<!-- 3D Style Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/manthan-sharma-2185ba378/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/manthansharma795/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="mailto:manthansharma795@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/manthansharma6767">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a470-11eb-90e3-039a68b68201.gif" width="100%" />
 
-## About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Manthan Sharma
@@ -40,69 +55,3 @@ practicing:
 open_to:
   - Internships
   - Entry-Level Backend Roles
-```
-
-<br/>
-
-## Featured Projects
-
-### Todo App
-
-**Tech Stack:** Spring Boot · Spring Data JPA · MySQL
-
-A backend CRUD application demonstrating REST APIs and database integration.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manthansharma6767/Todo-app)
-
-<br/>
-
-## Tech Stack
-
-<table>
-<tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=java,python,javascript"/></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=spring,maven"/></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql"/></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,bootstrap"/></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/></td>
-</tr>
-</table>
-
-<br/>
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manthansharma6767&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansharma6767&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=manthansharma6767&theme=github-dark-blue&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-**Thanks for visiting.**
-
-*Code. Learn. Build. Repeat.*
-
-</div>
