@@ -1,18 +1,19 @@
 <div align="center">
 
-# 🛠️ Manthan Sharma
+<!-- 3D Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Manthan%20Sharma&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%"/>
 
-### **CS Undergrad · Aspiring Backend Engineer · Java & Spring Boot**
+### 🚀 **CS Undergrad · Aspiring Backend Engineer · Java & Spring Boot**
 
 <a href="https://github.com/manthansharma6767">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+with+Spring+Boot;Practicing+DSA+in+Java;Exploring+System+Design;Always+Learning" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manthansharma6767&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=manthansharma6767&color=0e75dd&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- 3D Style Social Badges -->
+<!-- 3D Pill Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/manthan-sharma-2185ba378/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
