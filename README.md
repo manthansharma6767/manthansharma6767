@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Manthan Sharma</h1>
+<h1 align="center">Manthan Sharma</h1>
 
 <p align="center">
-  <strong>Java Backend Developer | Spring Boot | REST APIs | MySQL</strong>
+  <strong>Java Backend Developer</strong>
 </p>
 
 <p align="center">
-  Building backend applications, solving problems, and learning scalable software architecture.
+  Java • Spring Boot • Spring Security • REST APIs • MySQL
 </p>
 
 <p align="center">
@@ -21,81 +21,52 @@
 
 ## About Me
 
-- Computer Science student focused on **Java Backend Development**
-- Building applications using **Java and Spring Boot**
-- Currently working on **RentLoop**
-- Learning **Spring Security, JWT, Redis and Kafka**
-- Practicing **Data Structures and Algorithms**
-- Interested in **Backend Architecture, System Design and Scalable Applications**
+Computer Science student focused on **Java Backend Development** and building practical backend applications with Spring Boot.
+
+- Java Backend Development
+- Spring Boot & REST APIs
+- Spring Security & JWT
+- JPA / Hibernate & MySQL
+- Data Structures & Algorithms
+- Redis & Kafka
+- Backend Architecture & System Design
 
 ---
 
 ## Tech Stack
 
-### Languages & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
-</p>
-
-### Database & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,kafka" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven,redis,kafka,git,github,postman,idea,vscode" />
 </p>
 
 ---
 
-## Current Project
+## Current Project — RentLoop
 
-# RentLoop
+**RentLoop** is a peer-to-peer rental platform designed for the university community.
 
-<p>
-  <strong>
-    A peer-to-peer rental platform designed for the university community.
-  </strong>
-</p>
-
-### What it provides
+### Features
 
 - Rental item listings
-- Category-based item discovery
+- Category-based discovery
 - Rental requests
 - Request-to-listing matching
-- Booking management
 - Availability management
+- Booking management
 - Real-time chat
-- Ratings and reviews
 - Notifications
-- User authentication and authorization
+- Ratings and reviews
+- Authentication and authorization
 
-### Backend Architecture
+### Backend
 
 ```text
-React Frontend
-       │
-       ▼
-Spring Boot REST API
-       │
-       ├── Controllers
-       │
-       ├── Services
-       │
-       ├── Repositories
-       │
-       ├── Spring Security + JWT
-       │
-       └── WebSocket / STOMP
-       │
-       ▼
-     MySQL
-       │
-       ├── Redis
-       │
-       └── Kafka
+Java 21
+Spring Boot
+Spring Security + JWT
+Spring Data JPA
+Hibernate
+MySQL
+WebSocket / STOMP
+Redis
+Kafka
