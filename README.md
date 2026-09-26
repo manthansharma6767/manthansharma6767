@@ -3,11 +3,32 @@
 # Manthan Sharma
 ### Computer Science Undergraduate | Aspiring Backend Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-sharma-2185ba378/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manthansharma6767)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/manthansharma795/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manthansharma795@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=manthansharma6767&color=0e75dd&style=flat-square)](https://github.com/manthansharma6767)
+<a href="https://www.linkedin.com/in/manthan-sharma-2185ba378/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/manthansharma795/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+<a href="mailto:manthansharma795@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<!-- Streak Stats Card (Replicates the 3-metric block from the image) -->
+<a href="https://github.com/manthansharma6767">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthansharma6767&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="GitHub Streak" />
+</a>
+
+<br><br>
+
+<!-- Activity & Language Stats -->
+<a href="https://github.com/manthansharma6767">
+  <img src="https://github-readme-stats.vercel.app/api?username=manthansharma6767&show_icons=true&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+</a>
+<a href="https://github.com/manthansharma6767">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansharma6767&layout=compact&theme=dark&hide_border=true&background=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
+</a>
 
 </div>
 
@@ -15,33 +36,8 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Engineering student with a strong focus on backend development. I specialize in building robust and scalable applications using **Java** and the **Spring Boot** ecosystem. I am highly motivated by problem-solving and consistently practice Data Structures and Algorithms (DSA) to write optimized code. 
+I am a 2nd-year Computer Science Engineering student specializing in backend development. I build scalable applications using **Java** and **Spring Boot**, and I am actively exploring System Design and robust database architectures (such as Jakarta Persistence). I consistently practice Data Structures and Algorithms to write optimized, efficient code.
 
-I am currently seeking **internships and entry-level backend engineering roles** where I can contribute to impactful projects while continuing to grow my technical expertise.
-
-## 🛠️ Technical Skills
-
-- **Languages:** Java, SQL
-- **Frameworks & Technologies:** Spring Boot, RESTful APIs
-- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, System Design basics
-- **Tools:** Git, GitHub, Maven/Gradle
-
-## 🚀 Current Focus
-
-- Building secure backend architectures utilizing **Spring Security** and **JWT**.
-- Strengthening algorithmic thinking through daily **DSA practice on LeetCode**.
-- Exploring the fundamentals of **System Design** for scalable applications.
-
----
-
-## 📂 Featured Projects
-
-> **Note:** Add 2-3 of your best projects here. Use the format below!
-
-### [Project Name 1](Link to repo)
-- **Tech Stack:** Java, Spring Boot, MySQL
-- Briefly describe what the project does, the problem it solves, and your specific technical achievements (e.g., "Reduced API response time by X%" or "Implemented secure user authentication").
-
-### [Project Name 2](Link to repo)
-- **Tech Stack:** Java, Spring MVC
-- Briefly describe the project and your contributions.
+- 🔭 Currently building backend systems using **Spring Boot, Spring Security, and JWT**.
+- 📝 Practicing daily **DSA on LeetCode**.
+- 💬 Ask me about **Java, REST APIs, and OOPs**.
