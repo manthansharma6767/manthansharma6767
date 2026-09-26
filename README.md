@@ -1,19 +1,19 @@
-<h1 align="center">Manthan Sharma</h1>
+<h1 align="center">Hi, I'm Manthan Sharma</h1>
 
 <p align="center">
-  <b>Java Backend Developer</b>
+  <strong>Java Backend Developer | Spring Boot | REST APIs | MySQL</strong>
 </p>
 
 <p align="center">
-  Spring Boot • REST APIs • MySQL • Spring Security • JPA
+  Building backend applications, solving problems, and learning scalable software architecture.
 </p>
 
 <p align="center">
   <a href="https://github.com/manthansharma6767">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://leetcode.com/u/manthansharma795/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
 </p>
 
@@ -21,20 +21,18 @@
 
 ## About Me
 
-I'm a Computer Science student focused on **Java backend development** and building practical backend systems with Spring Boot.
-
-- Building RESTful backend applications
-- Working with Spring Boot, Spring Security and JPA
-- Currently developing **RentLoop**
-- Practicing Data Structures and Algorithms
-- Learning Redis, Kafka and System Design
-- Interested in scalable backend architecture
+- Computer Science student focused on **Java Backend Development**
+- Building applications using **Java and Spring Boot**
+- Currently working on **RentLoop**
+- Learning **Spring Security, JWT, Redis and Kafka**
+- Practicing **Data Structures and Algorithms**
+- Interested in **Backend Architecture, System Design and Scalable Applications**
 
 ---
 
 ## Tech Stack
 
-### Backend
+### Languages & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
@@ -49,36 +47,55 @@ I'm a Computer Science student focused on **Java backend development** and build
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
 </p>
 
 ---
 
-## Featured Project
+## Current Project
 
-### RentLoop
+# RentLoop
 
-A peer-to-peer rental platform designed for the university community.
+<p>
+  <strong>
+    A peer-to-peer rental platform designed for the university community.
+  </strong>
+</p>
 
-Users can:
+### What it provides
 
-- Create and manage rental listings
-- Search and discover available items
-- Create rental requests
-- Match requests with available listings
-- Manage rental bookings
-- Communicate through real-time chat
-- Rate and review rental experiences
+- Rental item listings
+- Category-based item discovery
+- Rental requests
+- Request-to-listing matching
+- Booking management
+- Availability management
+- Real-time chat
+- Ratings and reviews
+- Notifications
+- User authentication and authorization
 
-**Backend**
+### Backend Architecture
 
 ```text
-Java 21
-Spring Boot
-Spring Security + JWT
-Spring Data JPA
-Hibernate
-MySQL
-WebSocket / STOMP
-Redis
-Kafka
+React Frontend
+       │
+       ▼
+Spring Boot REST API
+       │
+       ├── Controllers
+       │
+       ├── Services
+       │
+       ├── Repositories
+       │
+       ├── Spring Security + JWT
+       │
+       └── WebSocket / STOMP
+       │
+       ▼
+     MySQL
+       │
+       ├── Redis
+       │
+       └── Kafka
