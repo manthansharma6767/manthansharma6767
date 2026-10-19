@@ -16,7 +16,7 @@ Hi there! 👋 I'm Manthan, a Computer Science Engineering student passionate ab
 
 * 🎓 CSE student graduating in **2028**.
 * ☕ Focused on **Java, Object-Oriented Programming, and Backend Development**.
-* ⚙️ Exploring **Spring Boot** and backend application development.
+* ⚙️ Exploring Spring Boot and backend application development.
 * 🧩 Practicing Data Structures and Algorithms.
 * 🐍 Working with Python and Machine Learning fundamentals.
 * 🤖 Building prediction-based Machine Learning projects.
@@ -89,7 +89,7 @@ A Machine Learning project designed to analyze polysomnography (PSG) data and pr
 
 * 🧠 Machine Learning-based prediction.
 * 📊 Analysis of sleep-related physiological signals.
-* 🐍 Built using Python and Machine Learning tools.
+* 🐍 Python and Machine Learning tools.
 * 🌐 Deployed with Streamlit.
 
 🔗 **[Live Demo](https://sleep-disorder-ml-project.streamlit.app/)**
@@ -104,11 +104,11 @@ A Machine Learning project exploring football data to predict outcomes using his
 * 📊 Data analysis and predictive modeling.
 * ⚽ Football analytics.
 
-🔗 Repository: Add your project repository URL here.
+🔗 Repository: Add your actual repository URL.
 
 ### 🏠 House Price Prediction
 
-A beginner Machine Learning project that estimates house prices using relevant input features.
+A Machine Learning project that estimates house prices using relevant input features.
 
 **Highlights**
 
@@ -116,7 +116,7 @@ A beginner Machine Learning project that estimates house prices using relevant i
 * 📊 Data preprocessing and exploratory analysis.
 * 🤖 Regression and prediction.
 
-🔗 Repository: Add your project repository URL here.
+🔗 Repository: Add your actual repository URL.
 
 ---
 
@@ -124,29 +124,39 @@ A beginner Machine Learning project that estimates house prices using relevant i
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manthansharma6767&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=manthansharma6767&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansharma6767&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
 ---
 
-## 🟩 GitHub Contribution Heatmap
+## 🟩 GitHub Contribution Calendar
 
 <div align="center">
 
-[![Manthan's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/YOUR_GITHUB_USERNAME)
+<img src="https://ghchart.rshah.org/manthansharma6767" alt="Manthan's GitHub Contribution Calendar" width="100%" />
 
 </div>
 
-This activity graph visualizes your GitHub contributions over time.
+This calendar displays daily GitHub contribution activity using a third-party rendering service.
 
-**Note:** Your actual GitHub contribution calendar is available on your GitHub profile. This graph is an additional visualization, not a replacement for GitHub's native contribution calendar.
+If it does not load, visit your [GitHub profile](https://github.com/manthansharma6767) to see the official contribution calendar.
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+[![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manthansharma6767\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/manthansharma6767)
+
+</div>
 
 ---
 
@@ -155,9 +165,9 @@ This activity graph visualizes your GitHub contributions over time.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manthansharma6767/manthansharma6767/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manthansharma6767/manthansharma6767/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manthansharma6767/manthansharma6767/output/github-snake.svg" width="100%">
 </picture>
 
 </div>
@@ -180,7 +190,7 @@ This activity graph visualizes your GitHub contributions over time.
 
 | Area             | Goal                                |
 | ---------------- | ----------------------------------- |
-| Java             | Strengthen core Java and OOP        |
+| Java             | Strengthen Core Java and OOP        |
 | DSA              | Improve problem-solving skills      |
 | Backend          | Learn Spring Boot and REST APIs     |
 | Databases        | Practice SQL and database design    |
@@ -194,7 +204,7 @@ This activity graph visualizes your GitHub contributions over time.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/manthansharma6767)
 
 </div>
 
