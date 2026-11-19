@@ -2,7 +2,7 @@ name: Auto-Update Streak & Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -28,14 +28,20 @@ jobs:
           curl -s "https://streak-stats.demolab.com/?user=manthansharma6767&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakNum=ffffff&currStreakLabel=FF9900&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=6&v=${{ github.run_id }}" -o temp_streak.svg
           if grep -q "<svg" temp_streak.svg; then mv temp_streak.svg assets/github-streak.svg; fi
 
-      - name: Fetch GitHub Stats
+      - name: Fetch GitHub Stats (Vercel Instance)
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=manthansharma6767&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=ffffff&icon_color=FF9900&border_radius=6&count_private=true&v=${{ github.run_id }}" -o temp_stats.svg
+          curl -s "https://github-stats-extended-puce-nine.vercel.app/api?username=manthansharma6767&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=ffffff&icon_color=FF9900&border_radius=6&count_private=true&v=${{ github.run_id }}" -o temp_stats.svg
+          if ! grep -q "<svg" temp_stats.svg; then
+            curl -s "https://github-stats-extended.vercel.app/api?username=manthansharma6767&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=ffffff&icon_color=FF9900&border_radius=6&count_private=true&v=${{ github.run_id }}" -o temp_stats.svg
+          fi
           if grep -q "<svg" temp_stats.svg; then mv temp_stats.svg assets/github-stats.svg; fi
 
-      - name: Fetch Top Languages
+      - name: Fetch Top Languages (Vercel Instance)
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=manthansharma6767&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=ffffff&icon_color=FF9900&border_radius=6&v=${{ github.run_id }}" -o temp_langs.svg
+          curl -s "https://github-stats-extended-puce-nine.vercel.app/api/top-langs/?username=manthansharma6767&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=ffffff&icon_color=FF9900&border_radius=6&v=${{ github.run_id }}" -o temp_langs.svg
+          if ! grep -q "<svg" temp_langs.svg; then
+            curl -s "https://github-stats-extended.vercel.app/api/top-langs/?username=manthansharma6767&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=ffffff&icon_color=FF9900&border_radius=6&v=${{ github.run_id }}" -o temp_langs.svg
+          fi
           if grep -q "<svg" temp_langs.svg; then mv temp_langs.svg assets/top-langs.svg; fi
 
       - name: Fetch Activity Graph
