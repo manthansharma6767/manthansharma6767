@@ -5,25 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=42&lines=Computer+Science+Engineering+Student;Java+%26+Spring+Boot+Developer;Microservices+%7C+REST+APIs+%7C+Distributed+Systems;Full+Stack+%26+Applied+Machine+Learning" alt="Typing SVG" />
 
 <h4><i>"Engineering scalable backends. Designing resilient microservices. Built with Java, powered by curiosity."</i></h4>
-
-<p>
-  <a href="https://github.com/manthansharma6767">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/manthan-sharma-2185ba378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/manthansharma795/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://x.com/MANTHAN66538229">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:manthansharma795@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
 </div>
 
 > **STATUS:** Architecting resilient backends. Designing microservices. Mastering system design.
