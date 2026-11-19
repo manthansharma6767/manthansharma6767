@@ -22,9 +22,6 @@
   <a href="mailto:manthansharma795@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://sleep-disorder-ml-project.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
-  </a>
 </p>
 
 </div>
@@ -125,9 +122,6 @@ My technical focus centers on **Java, Spring Boot, and Microservices**. I enjoy 
       <p>
         <a href="https://github.com/manthansharma6767/Sleep-Disorder">
           <img src="https://img.shields.io/badge/Open_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Repo" />
-        </a>
-        <a href="https://sleep-disorder-ml-project.streamlit.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
         </a>
       </p>
     </td>
