@@ -241,14 +241,6 @@ My technical focus centers on **Java, Spring Boot, and Microservices**. I enjoy 
 
 <br /><br />
 
-<a href="https://github.com/manthansharma6767">GitHub</a> &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/manthan-sharma-2185ba378/">LinkedIn</a> &nbsp;|&nbsp;
-<a href="https://leetcode.com/u/manthansharma795/">LeetCode</a> &nbsp;|&nbsp;
-<a href="https://x.com/MANTHAN66538229">X (Twitter)</a> &nbsp;|&nbsp;
-<a href="mailto:manthansharma795@gmail.com">Email</a>
-
-<br /><br />
-
 > **Think in systems. Architect with discipline. Build software that scales.**
 
 </div>
