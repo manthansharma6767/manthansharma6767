@@ -1,0 +1,55 @@
+name: Auto-Update Streak & Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/update-streak.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak-and-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create Assets Directory
+        run: mkdir -p assets
+
+      - name: Fetch Streak Stats
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=manthansharma6767&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakNum=ffffff&currStreakLabel=FF9900&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=6&v=${{ github.run_id }}" -o temp_streak.svg
+          if grep -q "<svg" temp_streak.svg; then mv temp_streak.svg assets/github-streak.svg; fi
+
+      - name: Fetch GitHub Stats
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=manthansharma6767&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=ffffff&icon_color=FF9900&border_radius=6&count_private=true&v=${{ github.run_id }}" -o temp_stats.svg
+          if grep -q "<svg" temp_stats.svg; then mv temp_stats.svg assets/github-stats.svg; fi
+
+      - name: Fetch Top Languages
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=manthansharma6767&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9900&text_color=ffffff&icon_color=FF9900&border_radius=6&v=${{ github.run_id }}" -o temp_langs.svg
+          if grep -q "<svg" temp_langs.svg; then mv temp_langs.svg assets/top-langs.svg; fi
+
+      - name: Fetch Activity Graph
+        run: |
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=manthansharma6767&bg_color=0D1117&color=FF9900&line=FF9900&point=FFFFFF&area=true&hide_border=true&border_radius=6&v=${{ github.run_id }}" -o temp_activity.svg
+          if grep -q "<svg" temp_activity.svg; then mv temp_activity.svg assets/activity-graph.svg; fi
+
+      - name: Cleanup Temp Files
+        run: rm -f temp_*.svg
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update streak and profile stats SVGs (orange theme) [skip ci]"
+          git push
